@@ -10,3 +10,9 @@ Performed Exploratory Data Analysis on a Robot Kinematics Dataset by Denavit-Har
 **5)**Are there any unusual or extreme values in the joint variables or the corresponding x, y, and z coordinates? Do they indicate any interesting patterns or anomalies?
 **6)** Regression Analysis
 
+![q1 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/d0037942-a038-418c-8e99-a1aabeb7c587)
+![q2 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/870207f5-45a2-46a4-969e-c49d02457f78)
+![q3 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/e1626aac-ae2a-4e55-a6ec-9f93c47d687d)
+![q4 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/2719668a-846b-4908-8973-2c2df6efb67c)
+![q5 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/07c3c8b5-2bcf-41d1-a32d-1e1423c5192c)
+![q6 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/cc4ff2a2-8891-424b-aacc-c80bc71ee997)
