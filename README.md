@@ -1,5 +1,5 @@
 # Robot-Kinematics
-Performed Exploratory Data Analysis on a Robot Kinematics Dataset by Denavit-Hartenberg convention to predict the movement of the 6 arms of the robot and their respective position in the coordinate system.
+Performed Exploratory Data Analysis on a Robot Kinematics Dataset by Denavit-Hartenberg convention to predict the movement of the 6 joints of the robot and their respective position in the coordinate system.
 
 **This Project answers the following questions:**
 
@@ -10,7 +10,7 @@ Performed Exploratory Data Analysis on a Robot Kinematics Dataset by Denavit-Har
 **5)** Are there any unusual or extreme values in the joint variables or the corresponding x, y, and z coordinates? Do they indicate any interesting patterns or anomalies?\
 **6)** Regression Analysis
 
-The **Scattering Plot graphs of Arms vs coordinates** are given below:
+The **Scattering Plot graphs of Joints vs Coordinates** are given below:
 
 ![q1 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/d0037942-a038-418c-8e99-a1aabeb7c587)
 ![q2 vs x,y,z](https://github.com/anushamahajan/Robot-Kinematics/assets/116106599/870207f5-45a2-46a4-969e-c49d02457f78)
